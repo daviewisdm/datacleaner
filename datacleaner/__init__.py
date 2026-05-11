@@ -49,6 +49,7 @@ def clean(df: pd.DataFrame, verbose: bool = False, **overrides) -> pd.DataFrame:
     """
     defaults = {
         "standardize_config": {"smart_case": True},
+        "format_config": {"default_country_code": "254"},
         "null_config": {"strategy": "auto", "drop_threshold": 0.9},
         "duplicate_config": {"normalize_strings": True},
     }

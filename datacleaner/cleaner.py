@@ -100,9 +100,9 @@ class DataCleaner:
         after_nulls = int(self.cleaned_df.isna().sum().sum())
 
         lines = [
-            "=" * 60,
+            # "=" * 60,
             "DATA CLEANING REPORT",
-            "=" * 60,
+            # "=" * 60,
             f"Shape:    {before_rows} x {before_cols}  ->  {after_rows} x {after_cols}",
             f"Nulls:    {before_nulls}  ->  {after_nulls}",
             "",
@@ -117,5 +117,5 @@ class DataCleaner:
             else:
                 lines.append("  • (no changes)")
             lines.append("")
-        lines.append("=" * 60)
+        # lines.append("=" * 60)
         return "\n".join(lines)
