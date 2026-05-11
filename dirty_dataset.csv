@@ -1,0 +1,51 @@
+  Customer ID  , Customer Name ,EMAIL_ADDRESS,Phone Number,Price (KES),Purchase Date,Age,City,Is Active,Quantity Sold,Internal Notes,Product Model
+1001,Alice Mwangi,ALICE@gmail.com  ,+254-712-345-001,"Ksh 25,500",2024-01-15,28.0,Nairobi,yes,"1,250",,Galaxy S24
+1002,BRIAN OTIENO,brian.otieno@yahoo.com,0712 345 002,"KES 18,200.50",15/02/2024,35.0,nairobi,Yes,850,,Galaxy A54
+1003,  carol wanjiku  ,carol@HOTMAIL.com,+254712345003,"25,500","March 5, 2024",,NAIROBI,YES,"1,500",,Galaxy S24 Ultra
+1004,David Kimani,david.k@gmail.com,(0712) 345-004,"Ksh 32,000",2024-04-10,42.0,Mombasa,no,"2,300",,Galaxy Z Flip
+1005,Eve Achieng,eve@gmail.COM,0712345005,"Ksh 18,200",20/05/2024,31.0,Kisumu,No,750,,Galaxy A54
+1006,FRANK MUTUA,frank@yahoo.com,+254 712 345 006,,2024-06-25,29.0,nairobi,yes,"1,100",,
+1007,grace njeri,not-a-valid-email,0712-345-007,"Ksh 45,750.00","July 8, 2024",38.0,Mombasa,yes,"1,800",,Galaxy Note 20
+1008,Henry Kipchoge,henry.kip@gmail.com,+254712345008,"25,500",2024-08-14,45.0,Nakuru,no,950,,Galaxy S24
+1009,Irene Wairimu,irene@gmail.com,0712 345 009,"KES 32,000",30/09/2024,33.0,Nairobi,YES,"1,400",,Galaxy S24 Ultra
+1010,JAMES OCHIENG,JAMES@gmail.com,,"Ksh 18,200",2024-10-05,27.0,Kisumu,yes,"1,250",,Galaxy A54
+1011,  Kelvin Mwangi,kelvin.m@yahoo.com  ,+254-712-345-011,"Ksh 28,900",2024-01-20,,  Nairobi  ,Yes,850,,Galaxy S24
+1012,Linda Awino  ,linda@gmail.com,0712345012,"32,000.75",25/02/2024,41.0,Mombasa,no,"1,500",,Galaxy Z Flip
+1013,Michael Kiprop,michael@gmail.com,+254 712 345 013,"Ksh 18,200","March 18, 2024",36.0,Nairobi,yes,,,Galaxy A54
+1014,nancy chebet,nancy@hotmail.com,0712-345-014,"Ksh 45,750",,30.0,Kisumu,Yes,750,,Galaxy Note 20
+1015,OLIVER MAINA,oliver@gmail.com,+254712345015,"25,500",22/05/2024,44.0,Nakuru,no,"1,100",,Galaxy S24
+1016,Patricia Wambui,patricia@gmail.com,0712 345 016,"Ksh 18,200",2024-06-30,32.0,Nairobi,yes,"1,800",,Galaxy A54
+1017,Quincy Otieno,  quincy@gmail.com,(0712)345-017,"KES 32,000.25","July 15, 2024",39.0,Mombasa,YES,950,,Galaxy S24 Ultra
+1018,rose mueni,rose@gmail.com,+254712345018,"Ksh 28,900",2024-08-22,26.0,Nairobi,yes,"1,400",,Galaxy S24
+1019,Samuel Kariuki,,0712345019,"25,500",30/09/2024,47.0,kisumu,no,"2,300",,Galaxy A54
+1020,TABITHA NDUNG'U,tabitha@gmail.com,+254-712-345-020,,2024-10-12,34.0,Nakuru,Yes,"1,250",,Galaxy Note 20
+1021,Umar Hassan,umar.h@yahoo.com,0712 345 021,"Ksh 18,200",2024-02-01,28.0,Nairobi,yes,850,,Galaxy S24
+1022,Violet Akinyi,violet@gmail.com,+254712345022,"Ksh 45,750",10/03/2024,35.0,Mombasa,no,"1,500",,Galaxy Note 20
+1023,william koech,WILLIAM@gmail.com,0712-345-023,"25,500","April 5, 2024",,Nairobi,Yes,"2,300",,Galaxy A54
+1024,XENIA OMONDI,xenia@gmail.com,+254 712 345 024,"Ksh 32,000",2024-05-18,42.0,Kisumu,yes,750,,Galaxy Z Flip
+1025,Yusuf Abdalla,yusuf@hotmail.com,0712345025,"Ksh 28,900",28/06/2024,31.0,Nakuru,YES,"1,100",,Galaxy S24
+1026,Zipporah Wanja,zipporah@gmail.com,+254-712-345-026,"Ksh 25,500",2024-07-22,29.0,Nairobi,no,"1,800",,Galaxy A54
+1027,alice mwangi,alice@gmail.com,0712 345 001,"Ksh 25,500","August 5, 2024",28.0,Nairobi,yes,"1,250",,Galaxy S24
+1028,BRIAN OTIENO  ,brian.otieno@yahoo.com,0712 345 002,"KES 18,200.50",2024-09-10,35.0,nairobi,Yes,850,,Galaxy A54
+1029,Aaron Mutiso,aaron@gmail.com,+254712345029,"Ksh 32,000",15/10/2024,38.0,Mombasa,no,950,,Galaxy S24 Ultra
+1030,Beatrice Naliaka,beatrice@gmail.com,0712345030,"25,500",2024-11-01,26.0,Nairobi,yes,"1,400",,Galaxy S24
+1031,Caleb Onyango,caleb@gmail.com,+254-712-345-031,"Ksh 28,900",2024-01-25,43.0,Kisumu,yes,"1,250",,Galaxy A54
+1032,Diana Kerubo,diana@gmail.com,0712 345 032,"Ksh 45,750",28/02/2024,30.0,Nairobi,Yes,850,,Galaxy Note 20
+1033,Emmanuel Barasa,emmanuel@gmail.com,(0712) 345-033,"Ksh 18,200","March 30, 2024",37.0,Mombasa,no,"1,500",,Galaxy S24
+1034,Faith Mumbi,faith@gmail.com,0712345034,"32,000",2024-04-22,45.0,Nakuru,YES,"2,300",,Galaxy Z Flip
+1035,George Korir,george@gmail.com,+254712345035,"Ksh 28,900",,32.0,Nairobi,yes,750,,Galaxy S24
+1036,Hellen Atieno,hellen@gmail.com,0712-345-036,"Ksh 25,500",2024-06-12,28.0,Kisumu,no,"1,100",,Galaxy A54
+1037,Ian Mwenda,ian@gmail.com,+254 712 345 037,"KES 45,750.00","July 28, 2024",41.0,Nairobi,Yes,"1,800",,Galaxy Note 20
+1038,Joyce Nyambura,joyce@gmail.com,0712345038,"Ksh 18,200",2024-08-30,33.0,Mombasa,yes,950,,Galaxy A54
+1039,Kevin Otieno,kevin@gmail.com,+254712345039,"Ksh 32,000",10/10/2024,39.0,Nairobi,YES,"1,400",,Galaxy S24
+1040,,lucy@gmail.com,0712 345 040,,2024-11-15,,Kisumu,yes,"2,300",,Galaxy A54
+1041,Mercy Wangari,mercy@gmail.com,+254-712-345-041,"Ksh 25,500",2024-02-08,36.0,Nakuru,no,"1,250",,Galaxy S24
+1042,,another bad email,,"Ksh 28,900",20/03/2024,30.0,Nairobi,Yes,850,,Galaxy S24 Ultra
+1043,Oscar Kiplagat,oscar@gmail.com,0712345043,"Ksh 45,750","April 15, 2024",44.0,Mombasa,yes,"1,500",,Galaxy Note 20
+1044,Pauline Akoth,pauline@gmail.com,+254 712 345 044,"Ksh 18,200",2024-05-25,27.0,Nairobi,no,"2,300",,Galaxy A54
+1045,Quinter Adhiambo,quinter@gmail.com,0712-345-045,"Ksh 32,000",30/06/2024,38.0,Kisumu,YES,750,,Galaxy S24
+1046,Ronald Mutua,ronald@gmail.com,+254712345046,"25,500",2024-07-30,42.0,Nairobi,yes,"1,100",,Galaxy Z Flip
+1047,Sharon Cherono,sharon@gmail.com,0712 345 047,"Ksh 28,900","August 18, 2024",31.0,Mombasa,Yes,"1,800",,Galaxy A54
+1048,Timothy Wekesa,,0712345048,"Ksh 45,750",2024-09-22,35.0,Nakuru,no,950,follow up,Galaxy Note 20
+1049,Ursula Kemboi,ursula@gmail.com,+254-712-345-049,"Ksh 18,200",20/10/2024,40.0,Nairobi,yes,"1,400",,Galaxy S24
+1050,Victor Onyancha,victor@gmail.com,0712 345 050,"Ksh 32,000",2024-11-25,33.0,Kisumu,Yes,"2,300",,Galaxy A54
